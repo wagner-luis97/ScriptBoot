@@ -1,0 +1,4 @@
+rescan 
+select vdisk file="C:\Windows\VHDs\Selenium.vhd"
+attach vdisk
+exit
